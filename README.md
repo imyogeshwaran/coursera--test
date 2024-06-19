@@ -1,2 +1,19 @@
-# coursera--test
-coursera test repository
+<html>
+    <head>
+        <title>
+            hello html
+        </title>
+    </head>
+    <body>
+        <form method="post">
+            <p>username: <input type="text" placeholder="enter your username "></p>
+            <p>password: <input type="password" placeholder="enter your password"></p>
+            <p><input type="submit" name="login"
+            </p>
+            <p><input type="radio" name="html" checked> you like html</p>
+            <p><input type="radio" name="css"> you like css</p>
+            <p><input type="radio" name="javascript"> you like javascript</p>
+
+        </form>
+    </body>
+</html>
